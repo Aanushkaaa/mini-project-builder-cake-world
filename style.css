@@ -102,6 +102,10 @@
     border-bottom: none;
 
 }
+.image>p{
+    text-align:center;
+}
+
 p{
     font-family: 'Karla', sans-serif;;
     font-size: 25px;
@@ -113,9 +117,6 @@ p{
     width: 163px;
 }
 
-.class>p{
-    text-align:center;
-}
 .footer{
     position: absolute;
     display: flex;
